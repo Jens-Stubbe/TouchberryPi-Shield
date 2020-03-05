@@ -1,5 +1,5 @@
 # TouchberryPi-Shield
-------------------------------------------------------------------------------------------------------------------
+
 ## Hardware
 ```
 You'll need :
@@ -7,7 +7,7 @@ a)A RaspberryPi running Raspbian
 b)A TouchberryPi shield, more information can be found at :
 https://circuitmaker.com/Projects/Details/Sille-Van-Landschoot-2/TouchBerry-Pi
 ```
-------------------------------------------------------------------------------------------------------------------
+
 ## Dependencies : 
 
 `sudo apt-get update`
