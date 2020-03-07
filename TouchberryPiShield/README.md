@@ -8,4 +8,5 @@ make
 ------------------------------------------------------------------------------------------------------------------------------
 ## Executing the application : 
 
-./Touchshield_Wrapper.py
+chmod +x ../Touchshield_Wrapper.py
+../Touchshield_Wrapper.py
