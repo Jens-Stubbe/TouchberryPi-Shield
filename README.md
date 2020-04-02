@@ -23,3 +23,9 @@ Select Interfacing Options
 Select I2C
 Select Yes, when prompted if you want to enable I2C
 ```
+------------------------------------------------------------------------------------------------------------------------------
+## Executing the application : 
+```
+chmod +x Touchshield_Wrapper.py
+./Touchshield_Wrapper.py
+```
