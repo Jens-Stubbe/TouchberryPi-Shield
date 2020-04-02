@@ -5,8 +5,3 @@ cd Touchberry
 make clean
 make
 ```
-------------------------------------------------------------------------------------------------------------------------------
-## Executing the application : 
-
-chmod +x ../Touchshield_Wrapper.py
-../Touchshield_Wrapper.py
